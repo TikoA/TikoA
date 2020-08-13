@@ -1,5 +1,5 @@
-<h2> Hi, I'm Tigran Arshakyan! <img src="https://media.giphy.com/media/dE5VNLfHyf79K/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi, I'm Tigran Arshakyan!</h2>
+<img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 <p></br>Self taught Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
