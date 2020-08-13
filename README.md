@@ -8,7 +8,7 @@
 ```javascript
 const tiko = {
   code: [Javascript, Typescript, HTML, CSS, SASS(SCSS,LESS), Python],
-  tools: [Vue, VueX, Node, Materialize, Nuxt, MongoDB],
+  tools: [Vue, VueX, Node, Flask, Materialize, Nuxt, MongoDB],
   techCommunities: {
                         coorganizer: "Me",
                         speaker: "Myself",
