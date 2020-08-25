@@ -1,4 +1,4 @@
-<h1> Hi, I'm Tigran Arshakyan!</h1>
+<h1> Hi! I'm Tigran Arshakyan!</h1>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
 <p></br>Self taught Programmer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
