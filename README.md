@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Polytech High School.
 - 🌱 &nbsp; Learning more about Web Development, Full Stack engineering.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp; Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -16,7 +16,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Vue](https://img.shields.io/badge/-Vue-green)
+  ![Vue](https://img.shields.io/badge/-Vue-green?style=flat&logo=vue)
 - 🛢 &nbsp;
   ![FireBase](https://img.shields.io/badge/-FireBase-orange)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
