@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Tigran.</h2>
+<h2> Hey there! I'm Tigran</h2>
 
 <h3> 👨🏻‍💻 &nbsp;<a href="https://tikosportfolio.netlify.app/">My Portfolio</a></h3>
 
