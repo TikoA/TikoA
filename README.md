@@ -5,7 +5,7 @@
 - 😇 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Polytech High School.
 - 🌱 &nbsp; Learning more about Web Development, Full Stack engineering.
-- My YouTube Channel => <a href="https://www.youtube.com/channel/UCQ0EA2gkRMqTJ_nAMibqdlQ">![YouTube](https://img.shields.io/badge/-YouTube-333333?style=flat&logo=youtube)</a>
+- 🖥 My YouTube Channel => <a href="https://www.youtube.com/channel/UCQ0EA2gkRMqTJ_nAMibqdlQ">![YouTube](https://img.shields.io/badge/-YouTube-333333?style=flat&logo=youtube)</a>
 
 
 <h3> 🛠 &nbsp; Tech Stack</h3>
