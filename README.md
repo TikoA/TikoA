@@ -1,5 +1,7 @@
 <h2> Hey there! I'm Tigran</h2>
 
+<hr>
+
 <h3> 👨🏻‍💻 &nbsp;<a href="https://tikosportfolio.netlify.app/">My Portfolio</a></h3>
 
 - 😇 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
