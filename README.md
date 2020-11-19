@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>👨🏻‍💻 &nbsp;<a href="https://tikosportfolio.netlify.app/">My Portfolio</a></h3>
+<h3>👨🏻‍💻 &nbsp;<a href="https://tikosportfolio.netlify.app/">My Portfolio </a></h3>
 
 - 😇 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Polytech High School.
