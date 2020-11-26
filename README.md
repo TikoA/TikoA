@@ -1,4 +1,4 @@
-<h2> Hey there! I am Tiko</h2>
+<h2> Hey there! I am Tigran</h2>
 
 <hr>
 
