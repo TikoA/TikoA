@@ -22,6 +22,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
