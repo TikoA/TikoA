@@ -24,6 +24,7 @@
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
