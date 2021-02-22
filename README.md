@@ -23,8 +23,8 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
-  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
+  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt.js)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
