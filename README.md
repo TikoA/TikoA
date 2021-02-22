@@ -23,10 +23,12 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+  ![Next](https://img.shields.io/badge/-React-333333?style=flat&logo=next)
+  ![Nuxt](https://img.shields.io/badge/-Redux-333333?style=flat&logo=nuxt)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
-  ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
+  ![Strapi](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=strapi)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
