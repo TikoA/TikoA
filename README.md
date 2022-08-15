@@ -5,7 +5,7 @@
 <h3>👨🏻‍💻 &nbsp;<a href="https://tikosportfolio.netlify.app/">My Portfolio</a></h3>
 
 - 😇 &nbsp; Exploring new technologies to develop software solutions and quick hacks.
-- 💻 &nbsp; Working since 2020 December at <a style="color: gray;font-weight: bold; font-size: 1.2rem;" href="https://astudio.am">A Studio</a> Company as Full Stack Developer
+- 💻 &nbsp; Worked from 2020 December to 2020 May at <a style="color: gray;font-weight: bold; font-size: 1.2rem;" href="https://astudio.am">A Studio</a> Company as Full Stack Developer
 - 🎓 &nbsp; Studying Computer Science, Physics Mathematics at Polytech High School.
 - 🌱 &nbsp; Learning more about Web Development, Full Stack engineering.
 -  <a href="https://www.youtube.com/channel/UCQ0EA2gkRMqTJ_nAMibqdlQ">![YouTube](https://img.shields.io/badge/-YouTube-333333?style=flat&logo=youtube)</a> <a href="https://www.linkedin.com/in/%D1%82%D0%B8%D0%B3%D1%80%D0%B0%D0%BD-%D0%B0%D1%80%D1%88%D0%B0%D0%BA%D1%8F%D0%BD-6b56a61a9/">![Linkedin](https://img.shields.io/badge/-Linkedin-333333?style=flat&logo=linkedin)</a>
